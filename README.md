@@ -2,6 +2,8 @@
 
 A web application for managing employees built with [Next.js](https://nextjs.org), designed to be fast, responsive, and easy to use.
 
+[Click here](https://drive.google.com/drive/folders/107Xm1RCuT2MAVwSqo8eZN5cyyCC3pW4F?usp=sharing) to see the video and the screenshots
+
 ## 🚀 Tech Stack
 
 - **Framework:** [Next.js 15](https://nextjs.org) (App Router)
